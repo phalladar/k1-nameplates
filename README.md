@@ -20,6 +20,8 @@ constantly and is hard to click. This mod replaces it with a plate per creature:
 | ![before, combat](docs/before-combat.jpg) | ![after, combat](docs/after-combat.jpg) |
 | ![before, distant pack](docs/before-pack.jpg) | ![after, distant pack](docs/after-pack.jpg) |
 
+**Download:** [Deadly Stream](https://deadlystream.com/files/file/3162-k1-nameplates/) | [Nexus Mods](https://www.nexusmods.com/kotor/mods/1909) | [GitHub release](https://github.com/phalladar/k1-nameplates/releases/latest)
+
 **Install:** copy `dinput8.dll` and `nameplates.ini` next to `swkotor.exe`. Nothing in the exe, Override or saves
 changes; delete the two files to uninstall. Works on Steam (stock or Editable Executable) and should work on GOG
 (same 1.03 code, untested), at any resolution, with or without UniWS / High Resolution Menus.
